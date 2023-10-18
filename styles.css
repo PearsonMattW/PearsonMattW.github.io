@@ -1,5 +1,5 @@
 body {
-background: [slategray];
+background: [gray];
 font-family: Arial, Helvetica, sans-serif;
 }
 h1 {
@@ -10,7 +10,7 @@ text-align: center;
 display: flex;
 padding: 10px;
 margin: 10px;
-background: [gold];
+background: [blue];
 }
 .assign img {
 width: 200px;
