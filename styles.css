@@ -18,5 +18,6 @@ background: #844247;
 }
 .assign img {
 width: 200px;
-padding: 10px;
+margin: 10px;
+border: 2px solid #FFFFFF
 }
